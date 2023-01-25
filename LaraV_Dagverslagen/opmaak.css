@@ -50,5 +50,19 @@ article{
 }
 
 h2{
+    color: #04aa73;
+}
+
+h3{
     color: #14123e;
+}
+
+.info{
+    position: absolute;
+    left: 55%;
+    top: 31%;
+    color: #14123e;
+    font-weight: bold;
+    padding: 5px 350px 300px 10px;
+    border-radius: 10px 10px 0px 0px;
 }
